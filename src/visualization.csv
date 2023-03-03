@@ -1,0 +1,886 @@
+region,state,customer_name,revenue,amount_of_orders
+Midwest,Illinois,Alikee Manoelli,69.22,2.0
+Midwest,Illinois,Antonius Goble,418.74,3.0
+Midwest,Illinois,Bent Cowdrey,326.24,7.0
+Midwest,Illinois,Brett Chipp,1112.87,3.0
+Midwest,Illinois,Burgess Gorioli,139.88,1.0
+Midwest,Illinois,Darcy Coursor,43.39,1.0
+Midwest,Illinois,Elisabeth Hulburt,145.96,3.0
+Midwest,Illinois,Fields Cullity,30.34,1.0
+Midwest,Illinois,Graig Zorn,96.08,4.0
+Midwest,Illinois,Inness Linney,335.5,5.0
+Midwest,Illinois,Jessalin Odom,40.49,1.0
+Midwest,Illinois,Katuscha Tague,229.07,3.0
+Midwest,Illinois,Lilias Spalding,556.92,4.0
+Midwest,Illinois,Loraine Matzel,361.08,3.0
+Midwest,Illinois,Martino Cirlos,420.77,3.0
+Midwest,Illinois,Nettie Tredwell,1338.8,5.0
+Midwest,Illinois,Quentin De Bischof,57.56,1.0
+Midwest,Illinois,Ricard Jewkes,29.57,1.0
+Midwest,Illinois,Rona Armell,61.47,1.0
+Midwest,Illinois,Roseanna Melonby,113.64,3.0
+Midwest,Illinois,Son Starmont,2625.94,8.0
+Midwest,Illinois,Urbanus Makeswell,580.92,5.0
+Midwest,Indiana,Bernadina Siaskowski,55.48,1.0
+Midwest,Indiana,Carolee Fettis,182.05,1.0
+Midwest,Indiana,Cristobal Simm,435.2,3.0
+Midwest,Indiana,Curtis Girvin,23.56,2.0
+Midwest,Indiana,Darlleen Aitkenhead,132.73,4.0
+Midwest,Indiana,Emery Bastie,111.89,2.0
+Midwest,Indiana,Freddy Ettery,95.63,1.0
+Midwest,Indiana,Jackson Phillipson,413.71,4.0
+Midwest,Indiana,Joyann Calleja,154.84,1.0
+Midwest,Indiana,Kalindi McMaster,628.1,1.0
+Midwest,Indiana,Kattie Nethercott,105.84,2.0
+Midwest,Indiana,Kitti Jinkin,2254.02,6.0
+Midwest,Indiana,Mort Smillie,1762.39,5.0
+Midwest,Indiana,Vinny Whittington,98.61,3.0
+Midwest,Iowa,Aretha Morgans,308.46,4.0
+Midwest,Iowa,Auberon Halladay,135.78,2.0
+Midwest,Iowa,Berthe Casement,119.34,2.0
+Midwest,Iowa,Brittne Mc Ilwrick,1827.45,18.0
+Midwest,Iowa,Byrom Dawson,581.76,2.0
+Midwest,Iowa,Eloisa Whanstall,100.11,1.0
+Midwest,Iowa,Finn Lesley,547.28,3.0
+Midwest,Iowa,Flore Doneld,728.56,4.0
+Midwest,Iowa,Kelvin Way,2110.72,9.0
+Midwest,Iowa,Marcile Boylund,113.87,1.0
+Midwest,Iowa,Martino Kurten,68.12,1.0
+Midwest,Iowa,Maryrose Benardeau,42.46,2.0
+Midwest,Iowa,Mirella Eslemont,875.98,12.0
+Midwest,Iowa,Rodrigo Pelz,733.27,6.0
+Midwest,Iowa,Thorvald Jaycock,187.12,3.0
+Midwest,Iowa,Valery Aseef,99.49,2.0
+Midwest,Kansas,Allegra Beadnall,24.23,1.0
+Midwest,Kansas,Anthony Prandoni,161.2,5.0
+Midwest,Kansas,Bobbye Dean,95.72,2.0
+Midwest,Kansas,Brunhilde Fussen,695.32,1.0
+Midwest,Kansas,Casie Carless,1634.18,3.0
+Midwest,Kansas,Clemmie Lethieulier,42.92,2.0
+Midwest,Kansas,Gayel McDell,444.24,5.0
+Midwest,Kansas,Gretel Philippart,468.38,7.0
+Midwest,Kansas,Lauritz Fotheringham,97.02,1.0
+Midwest,Kansas,Neysa Cottisford,114.54,3.0
+Midwest,Kansas,Noelani Fairlam,51.51,1.0
+Midwest,Kansas,Shantee Bernth,337.06,3.0
+Midwest,Kansas,Tyrone Connochie,62.58,1.0
+Midwest,Michigan,Aili Hovert,225.42,4.0
+Midwest,Michigan,Amalee Emsden,1194.0,5.0
+Midwest,Michigan,Amargo Prestage,586.83,1.0
+Midwest,Michigan,Anthony Herion,,1.0
+Midwest,Michigan,Arturo Minto,742.11,2.0
+Midwest,Michigan,Aurore Groger,145.19,3.0
+Midwest,Michigan,Bald Arling,89.01,2.0
+Midwest,Michigan,Bax Blenkiron,190.45,2.0
+Midwest,Michigan,Cthrine Brabban,164.33,4.0
+Midwest,Michigan,Elenore Willbond,564.71,4.0
+Midwest,Michigan,Gibbie Reiner,3192.39,4.0
+Midwest,Michigan,Issy Rawson,111.17,1.0
+Midwest,Michigan,Lion Marishenko,277.75,4.0
+Midwest,Michigan,Lissa Flintuff,482.67,4.0
+Midwest,Michigan,Roslyn Peto,1296.7,3.0
+Midwest,Michigan,Teador Cawthra,49.6,1.0
+Midwest,Minnesota,Cherilyn Riccelli,2258.89,2.0
+Midwest,Minnesota,Chrissy Hyde,469.33,3.0
+Midwest,Minnesota,Cobbie Mantha,363.06,3.0
+Midwest,Minnesota,Emalee Fitchet,129.01,2.0
+Midwest,Minnesota,Janeta Ricards,67.1,1.0
+Midwest,Minnesota,Judith Clayborn,183.43,3.0
+Midwest,Minnesota,Kathie Bunford,226.39,5.0
+Midwest,Minnesota,Leland Crabbe,522.8,4.0
+Midwest,Minnesota,Lotti Ilett,103.42,1.0
+Midwest,Minnesota,Miran Wallentin,,1.0
+Midwest,Minnesota,Raymund Tremonte,1485.54,12.0
+Midwest,Minnesota,Renate Wapol,580.5,9.0
+Midwest,Minnesota,Salvatore Buney,37.06,2.0
+Midwest,Minnesota,Stefanie Quimby,429.01,2.0
+Midwest,Minnesota,Sue Stuck,265.34,3.0
+Midwest,Minnesota,Susy Lambertson,319.98,3.0
+Midwest,Minnesota,Ulrica Garr,1429.59,9.0
+Midwest,Missouri,Anni Matheson,29.64,1.0
+Midwest,Missouri,Archibald Beavon,2045.08,2.0
+Midwest,Missouri,Archibald Doogue,377.36,5.0
+Midwest,Missouri,Aryn Danielsohn,423.7,7.0
+Midwest,Missouri,Harrie Knock,15.71,1.0
+Midwest,Missouri,Hazel MacAfee,104.67,1.0
+Midwest,Missouri,Keely Charteris,336.67,6.0
+Midwest,Missouri,Kelcie Bernaciak,1023.28,4.0
+Midwest,Missouri,Leisha Hawkslee,633.7,7.0
+Midwest,Missouri,Luella Denness,385.83,4.0
+Midwest,Missouri,Maryjo Swain,16.41,2.0
+Midwest,Missouri,Maxy Rosenbarg,263.24,5.0
+Midwest,Missouri,Nikkie Kennaway,129.39,3.0
+Midwest,Missouri,Riannon Orris,792.1,2.0
+Midwest,Missouri,Roley Clarridge,60.0,1.0
+Midwest,Missouri,Roosevelt Foxcroft,800.73,7.0
+Midwest,Missouri,Rutledge Elham,900.63,3.0
+Midwest,Missouri,Rutledge Giottini,159.31,5.0
+Midwest,Missouri,Sonnnie Hyatt,563.46,3.0
+Midwest,Missouri,Suzette Devonald,34.71,1.0
+Midwest,Missouri,Thayne Armsby,510.82,1.0
+Midwest,Missouri,Towny Chellenham,111.64,1.0
+Midwest,Missouri,Westley Redgewell,73.95,1.0
+Midwest,Nebraska,Andres Lancaster,35.78,2.0
+Midwest,Nebraska,Bekki Smiley,145.53,1.0
+Midwest,Nebraska,Brien Hun,546.78,3.0
+Midwest,Nebraska,Celle Di Nisco,69.09,1.0
+Midwest,Nebraska,Cello Hamor,137.87,3.0
+Midwest,Nebraska,Crysta Stean,235.35,2.0
+Midwest,Nebraska,Garrek Champerlen,703.43,4.0
+Midwest,Nebraska,Hyacinth Boatswain,123.26,2.0
+Midwest,Nebraska,Jefferey Gives,63.21,2.0
+Midwest,Nebraska,Odell Neighbour,66.17,1.0
+Midwest,North Dakota,Anastasie Eaton,98.79,2.0
+Midwest,North Dakota,Kesley Andrat,77.92,2.0
+Midwest,Ohio,Addie Northey,608.84,4.0
+Midwest,Ohio,Andree Lyosik,16.23,1.0
+Midwest,Ohio,Aubrette Tomkiss,680.63,4.0
+Midwest,Ohio,Auguste Skyram,393.53,2.0
+Midwest,Ohio,Augustus Plet,353.85,5.0
+Midwest,Ohio,Buddy Cregeen,198.67,4.0
+Midwest,Ohio,Carolan Duxbarry,754.1,5.0
+Midwest,Ohio,Carri Keaveney,144.49,1.0
+Midwest,Ohio,Ceil Hrycek,54.34,1.0
+Midwest,Ohio,Dallis Leed,286.64,3.0
+Midwest,Ohio,Deeyn Koomar,787.72,7.0
+Midwest,Ohio,Ethelyn Pooke,400.85,5.0
+Midwest,Ohio,Farrell Adamides,489.64,7.0
+Midwest,Ohio,Georgiana Winterscale,26.36,1.0
+Midwest,Ohio,Joella Marin,6220.86,3.0
+Midwest,Ohio,Jolynn Barstock,31.54,1.0
+Midwest,Ohio,Laney Brehat,1145.21,6.0
+Midwest,Ohio,Leonhard Burchfield,146.95,4.0
+Midwest,Ohio,Nil Ainslie,33.25,2.0
+Midwest,Ohio,Rodge Toderi,46.53,1.0
+Midwest,Ohio,Rosalinda Fawltey,679.53,9.0
+Midwest,Ohio,Spencer Daveren,1589.27,14.0
+Midwest,Ohio,Tammara Greatrakes,2729.91,18.0
+Midwest,Ohio,Tricia Severns,322.83,3.0
+Midwest,Ohio,Zonnya Bertson,476.49,3.0
+Midwest,South Dakota,Jan Grenshields,475.54,6.0
+Midwest,South Dakota,Kellina Kringe,160.09,3.0
+Midwest,Wisconsin,Abigael Emmer,3513.47,11.0
+Midwest,Wisconsin,Calhoun Mesnard,606.36,11.0
+Midwest,Wisconsin,Charmion Lettuce,437.19,6.0
+Midwest,Wisconsin,Clarisse Govan,1486.82,6.0
+Midwest,Wisconsin,Fanya Dracksford,2142.0,4.0
+Midwest,Wisconsin,Farly Elen,52.83,2.0
+Midwest,Wisconsin,Gaylord Heyfield,149.52,5.0
+Midwest,Wisconsin,Jeramey Gerram,405.83,1.0
+Midwest,Wisconsin,Oralee McCalister,345.74,6.0
+Midwest,Wisconsin,Philly Ollier,660.43,5.0
+Midwest,Wisconsin,Queenie Blemings,97.1,2.0
+Midwest,Wisconsin,Tricia Goadbie,52.09,1.0
+Midwest,Wisconsin,Ulla MacRorie,817.65,1.0
+Midwest,Wisconsin,Viki Gooderridge,270.97,4.0
+Northeast,Connecticut,Abner Lilford,191.79,2.0
+Northeast,Connecticut,Aggi Odgaard,244.31,4.0
+Northeast,Connecticut,Aurie Tuffey,240.01,3.0
+Northeast,Connecticut,Bartlet Brunn,375.95,3.0
+Northeast,Connecticut,Bryanty Garr,287.69,4.0
+Northeast,Connecticut,Claire Howsley,169.99,4.0
+Northeast,Connecticut,Fedora Riggey,195.08,1.0
+Northeast,Connecticut,Heidi Olyfant,173.24,3.0
+Northeast,Connecticut,Norton Fluger,610.73,2.0
+Northeast,Connecticut,Sanson Zotto,319.66,5.0
+Northeast,Connecticut,Shandeigh Lygo,80.77,1.0
+Northeast,Connecticut,Virgil Chatt,83.92,1.0
+Northeast,Massachusetts,Averell Wardhaw,830.8,11.0
+Northeast,Massachusetts,Burty Oguz,24.3,1.0
+Northeast,Massachusetts,Hersh Castilla,391.61,1.0
+Northeast,Massachusetts,Jason Grocutt,115.88,4.0
+Northeast,Massachusetts,Karlotta Braime,826.56,9.0
+Northeast,Massachusetts,Laurella Lorman,1624.52,1.0
+Northeast,Massachusetts,Myrtia Wilfinger,91.69,4.0
+Northeast,Massachusetts,Oralie Scintsbury,138.51,1.0
+Northeast,Massachusetts,Stephani Kinny,202.67,1.0
+Northeast,New Hampshire,Bronson Twiggins,59.1,1.0
+Northeast,New Hampshire,Gay Siemianowicz,395.57,6.0
+Northeast,New Jersey,Burch Jeskins,389.97,2.0
+Northeast,New Jersey,Candide Hockell,829.61,9.0
+Northeast,New Jersey,Garland Langer,420.35,5.0
+Northeast,New Jersey,Gerri Bilofsky,56.04,2.0
+Northeast,New Jersey,Godart Jennery,,1.0
+Northeast,New Jersey,Katherina Brearley,264.22,2.0
+Northeast,New Jersey,Latia Maddick,25.46,1.0
+Northeast,New York,Abbe Mation,671.31,5.0
+Northeast,New York,Agnes Haslin,327.04,3.0
+Northeast,New York,Agustin Grinval,224.63,2.0
+Northeast,New York,Amandi Baddeley,574.02,6.0
+Northeast,New York,Amara Atmore,125.23,4.0
+Northeast,New York,Amberly Gyves,246.49,1.0
+Northeast,New York,Archy Peert,204.62,2.0
+Northeast,New York,Barret Windham,1635.43,3.0
+Northeast,New York,Baudoin Witz,6070.34,2.0
+Northeast,New York,Blaire Lamacraft,457.05,5.0
+Northeast,New York,Brent Arrow,279.78,2.0
+Northeast,New York,Christian Coghlin,317.97,2.0
+Northeast,New York,Christie Kirsop,38.13,2.0
+Northeast,New York,Cordey Makey,405.74,3.0
+Northeast,New York,Cornall Menichi,20.64,1.0
+Northeast,New York,Dosi Getty,346.19,3.0
+Northeast,New York,Esma Bassham,418.87,3.0
+Northeast,New York,Estevan Morad,86.82,1.0
+Northeast,New York,Fletch Forsyde,273.44,2.0
+Northeast,New York,Garner Yukhnini,470.69,5.0
+Northeast,New York,Gilligan Rothwell,2904.55,6.0
+Northeast,New York,Gwenora Punter,415.91,4.0
+Northeast,New York,Gwyneth Dowdall,587.9,4.0
+Northeast,New York,Herbie De Angelis,411.75,3.0
+Northeast,New York,Lenna Rheubottom,534.86,4.0
+Northeast,New York,Leonore Mapp,146.64,4.0
+Northeast,New York,Lev Linny,94.43,1.0
+Northeast,New York,Lon Oake,209.71,1.0
+Northeast,New York,Mahala Morican,18.43,1.0
+Northeast,New York,Meredith Tome,435.3,3.0
+Northeast,New York,Milty Itscowics,148.75,3.0
+Northeast,New York,Minne Bryning,477.22,5.0
+Northeast,New York,Moritz McLelland,60.57,1.0
+Northeast,New York,Nanni Joule,226.84,2.0
+Northeast,New York,Nevil Bate,80.22,1.0
+Northeast,New York,Nikos Van Zon,25.56,1.0
+Northeast,New York,Norean Heustace,70.89,2.0
+Northeast,New York,Patric Jeskins,1309.28,4.0
+Northeast,New York,Ric Reoch,39.27,2.0
+Northeast,New York,Robena Topliss,73.94,2.0
+Northeast,New York,Rodie Mallison,233.53,3.0
+Northeast,New York,Ron Ashbee,256.58,2.0
+Northeast,New York,Rutherford Pedycan,934.61,7.0
+Northeast,New York,Shalne Biddell,722.55,9.0
+Northeast,New York,Sheba Balk,23.43,2.0
+Northeast,New York,Spencer Castiello,131.93,3.0
+Northeast,New York,Stephen Gallgher,648.87,6.0
+Northeast,New York,Tamarra Hearson,726.79,2.0
+Northeast,New York,Tamqrah Riceards,119.13,2.0
+Northeast,New York,Tessa Vidgeon,20.19,1.0
+Northeast,New York,Torrence Bretherick,119.28,3.0
+Northeast,New York,Umberto Draisey,1255.88,5.0
+Northeast,New York,Upton Trowle,47.1,1.0
+Northeast,New York,Waldo Toffano,21.59,2.0
+Northeast,New York,Wandis Scriviner,141.82,3.0
+Northeast,New York,Yasmin Roblou,861.04,6.0
+Northeast,Pennsylvania,Alejandro Ackeroyd,107.51,1.0
+Northeast,Pennsylvania,Amelia Dachs,261.18,2.0
+Northeast,Pennsylvania,Antoinette Mensler,29.04,1.0
+Northeast,Pennsylvania,Ari Ferentz,173.82,4.0
+Northeast,Pennsylvania,Becka Cheek,1958.33,6.0
+Northeast,Pennsylvania,Charmain Jenkins,38.44,1.0
+Northeast,Pennsylvania,Dannye D'Elias,875.13,6.0
+Northeast,Pennsylvania,Dicky Monro,39.59,1.0
+Northeast,Pennsylvania,Fenelia Exton,1990.29,5.0
+Northeast,Pennsylvania,Gothart Bagott,1349.63,6.0
+Northeast,Pennsylvania,Herschel Farquharson,100.75,1.0
+Northeast,Pennsylvania,Hestia Rozet,3596.1,4.0
+Northeast,Pennsylvania,Jackson Pahler,56.58,1.0
+Northeast,Pennsylvania,Jeffie Basten,255.23,6.0
+Northeast,Pennsylvania,Kale Grant,1364.43,1.0
+Northeast,Pennsylvania,Kristofer Leverage,206.28,3.0
+Northeast,Pennsylvania,Olag Rozenzweig,87.04,3.0
+Northeast,Pennsylvania,Patrica Denson,762.12,5.0
+Northeast,Pennsylvania,Penrod Kubczak,169.94,3.0
+Northeast,Pennsylvania,Torrey Lamball,56.6,2.0
+Northeast,Pennsylvania,Zelig Goodey,294.55,2.0
+South,Alabama,Anneliese Winterbourne,1979.4,9.0
+South,Alabama,Arlen Armitt,738.49,3.0
+South,Alabama,Barde Adanet,50.85,1.0
+South,Alabama,Desi Halgarth,308.76,3.0
+South,Alabama,Dudley Zuan,1013.69,2.0
+South,Alabama,Fayette May,411.58,7.0
+South,Alabama,Findlay Soulsby,74.22,1.0
+South,Alabama,Hannis Dradey,12.13,1.0
+South,Alabama,Monah Scramage,,1.0
+South,Alabama,Payton Allchin,93.67,3.0
+South,Alabama,Xenos Bradick,171.28,1.0
+South,Arkansas,Ediva Cossans,3891.3,7.0
+South,Arkansas,Gwendolin Normanville,608.39,5.0
+South,Arkansas,Marquita Aird,109.88,3.0
+South,Arkansas,Mattheus Littler,129.88,1.0
+South,Arkansas,Nickie Dominicacci,82.26,1.0
+South,Arkansas,Orazio Upcott,110.26,2.0
+South,Delaware,Cello Dudney,,1.0
+South,Delaware,Dunc Gossage,181.86,2.0
+South,Delaware,Martie Soles,2389.62,5.0
+South,Delaware,Robert Livezey,123.28,2.0
+South,Delaware,Roldan Gallo,372.49,3.0
+South,Delaware,Saundra Thomson,287.35,5.0
+South,District of Columbia,Alyson De Domenico,71.24,3.0
+South,District of Columbia,Anatollo Arch,,1.0
+South,District of Columbia,Charline Gosling,86.82,1.0
+South,District of Columbia,Cheslie Josilowski,76.68,1.0
+South,District of Columbia,Corrina Stackbridge,165.59,3.0
+South,District of Columbia,Drew Dumberell,365.2,2.0
+South,District of Columbia,Gerhard Toffanini,155.46,1.0
+South,District of Columbia,Gunar Teaser,180.71,2.0
+South,District of Columbia,Jasmina Kingswood,1896.7,3.0
+South,District of Columbia,Jemima Hayesman,849.37,6.0
+South,District of Columbia,Jillian Charle,1940.05,2.0
+South,District of Columbia,Joella Fishpoole,164.08,4.0
+South,District of Columbia,Lanna McIndrew,290.62,2.0
+South,District of Columbia,Lebbie Connew,1503.59,6.0
+South,District of Columbia,Lewiss Van Dijk,217.3,4.0
+South,District of Columbia,Lyssa Whitear,455.11,3.0
+South,District of Columbia,Marcile Curnick,281.55,6.0
+South,District of Columbia,Maureen Gallone,434.3,2.0
+South,District of Columbia,Minor Weedall,1245.32,15.0
+South,District of Columbia,Mirelle Noteyoung,188.58,3.0
+South,District of Columbia,My Grabham,707.3,6.0
+South,District of Columbia,Nessy Galloway,24.02,1.0
+South,District of Columbia,Nevins Roll,2513.44,7.0
+South,District of Columbia,Patrizius Braunton,509.83,4.0
+South,District of Columbia,Prudi Andrini,188.0,4.0
+South,District of Columbia,Raynard Crowdace,439.84,6.0
+South,District of Columbia,Retha Jossel,86.82,1.0
+South,District of Columbia,Rosita Zannolli,861.93,4.0
+South,District of Columbia,Sid Hiom,384.56,5.0
+South,District of Columbia,Tabby Kryszka,861.01,5.0
+South,Florida,Adrien Northway,9029.78,11.0
+South,Florida,Agustin Deards,1741.06,1.0
+South,Florida,Aimil Soldner,1033.28,7.0
+South,Florida,Alysia Byre,175.23,3.0
+South,Florida,Antonella Custy,219.19,2.0
+South,Florida,Barclay Renhard,3453.33,12.0
+South,Florida,Bennie Shah,250.13,3.0
+South,Florida,Brad Sollime,34.93,1.0
+South,Florida,Brandie Pedroni,162.01,4.0
+South,Florida,Brittne Galsworthy,312.8,6.0
+South,Florida,Brooks Barkaway,235.31,2.0
+South,Florida,Carolann Naisbit,47.57,2.0
+South,Florida,Cedric McIlhatton,1159.98,4.0
+South,Florida,Collie Goves,1022.53,7.0
+South,Florida,Coop Ferrarello,271.11,1.0
+South,Florida,Daisie Durber,20.61,1.0
+South,Florida,Dana Heard,579.75,6.0
+South,Florida,Darbee Culpen,314.61,6.0
+South,Florida,Dayna Ledger,88.46,2.0
+South,Florida,Debor Leffek,110.58,2.0
+South,Florida,Demetrius Mularkey,696.17,8.0
+South,Florida,Douglas Celler,362.1,1.0
+South,Florida,Elinore Hagley,339.65,2.0
+South,Florida,Emeline Redwing,,1.0
+South,Florida,Erin Mutter,253.72,2.0
+South,Florida,Erl Haimes,38.9,1.0
+South,Florida,Forest Taudevin,120.34,1.0
+South,Florida,Forster Huckin,493.37,4.0
+South,Florida,Gabbi Durbridge,83.98,3.0
+South,Florida,Hewitt Solano,88.94,1.0
+South,Florida,Hillyer Toffolo,22.41,1.0
+South,Florida,Ingar Phipps,1134.59,4.0
+South,Florida,Jada Oakeshott,322.27,5.0
+South,Florida,Jamison Owbrick,258.82,2.0
+South,Florida,Jareb Trengove,85.44,2.0
+South,Florida,Jay McTeague,762.52,5.0
+South,Florida,Kalila McKyrrelly,1413.99,3.0
+South,Florida,Kennett Allman,41.48,1.0
+South,Florida,Kinna Dimitriades,44.19,2.0
+South,Florida,Kip Steanyng,201.29,3.0
+South,Florida,Kipper Seatter,54.11,1.0
+South,Florida,Klarika Digle,198.16,3.0
+South,Florida,Lemuel Connolly,512.72,7.0
+South,Florida,Lloyd Merman,25.2,1.0
+South,Florida,Loni Tzarkov,341.05,4.0
+South,Florida,Lowe Gatenby,1842.32,3.0
+South,Florida,Lynnell Sargood,518.25,4.0
+South,Florida,Maegan Ossulton,460.05,3.0
+South,Florida,Maureene Ebbrell,259.71,4.0
+South,Florida,Merrielle Strank,429.94,6.0
+South,Florida,Merrilee McCane,80.84,1.0
+South,Florida,Micah Rusted,280.95,3.0
+South,Florida,Michaeline Grabeham,1505.6,8.0
+South,Florida,Mickie Tuddenham,,1.0
+South,Florida,Myrwyn Eat,301.54,5.0
+South,Florida,Neilla Brickell,2061.34,2.0
+South,Florida,Nowell Darragh,299.49,4.0
+South,Florida,Patric Rapkins,584.21,6.0
+South,Florida,Peyter Limprecht,50.7,2.0
+South,Florida,Rem Iggalden,110.29,2.0
+South,Florida,Rhiamon Yerborn,970.56,12.0
+South,Florida,Rosina Tregust,954.19,5.0
+South,Florida,Seumas Olliver,406.85,3.0
+South,Florida,Sherye Marflitt,280.59,5.0
+South,Florida,Sven Arp,254.91,1.0
+South,Florida,Thatch Klaves,1711.5,7.0
+South,Florida,Tobye Vashchenko,488.73,2.0
+South,Florida,Torre Hedgeley,1895.36,6.0
+South,Florida,Ulric Phorsby,370.27,4.0
+South,Florida,Valentine Laven,26.0,1.0
+South,Florida,Vittoria Orred,2759.26,8.0
+South,Florida,Vivia Scoggan,145.39,4.0
+South,Florida,Wain Muffitt,1016.53,7.0
+South,Florida,Yank Madge,492.45,4.0
+South,Florida,Yuri Couchman,17.11,1.0
+South,Florida,Zora Teliga,674.56,5.0
+South,Georgia,Addia Randles,17.89,2.0
+South,Georgia,Aeriela Ullyatt,,1.0
+South,Georgia,Alwyn Rowntree,1908.53,3.0
+South,Georgia,Aretha Bray,128.51,2.0
+South,Georgia,Brenden Grestie,360.6,4.0
+South,Georgia,Cami Priel,67.2,1.0
+South,Georgia,Dav Estoile,569.84,7.0
+South,Georgia,Deane Cornew,133.48,2.0
+South,Georgia,Demetri Lindenblatt,2152.3,3.0
+South,Georgia,Deni Cruickshanks,414.83,1.0
+South,Georgia,Drake Clemont,162.74,1.0
+South,Georgia,Farlie Petricek,181.24,1.0
+South,Georgia,Kriste Lownds,218.36,1.0
+South,Georgia,Laural Gretton,135.78,1.0
+South,Georgia,Michelina Fedoronko,349.23,3.0
+South,Georgia,Norrie Trundell,248.91,2.0
+South,Georgia,Odo Jecock,103.01,2.0
+South,Georgia,Rubin Kilgannon,168.14,3.0
+South,Georgia,Sayre Rotter,1536.58,4.0
+South,Georgia,Spencer Scamadine,224.77,1.0
+South,Georgia,Tessi Rushbrooke,,1.0
+South,Georgia,Tynan Wortley,643.82,6.0
+South,Georgia,Vivyanne Schulter,59.56,3.0
+South,Kentucky,Chandler Coolson,231.05,3.0
+South,Kentucky,Dennet Cattellion,,2.0
+South,Kentucky,Dominik Snawdon,471.71,8.0
+South,Kentucky,Elaina Domek,258.9,4.0
+South,Kentucky,Ignace Dillingstone,224.88,3.0
+South,Kentucky,Lennard Jarmain,807.52,5.0
+South,Kentucky,Mel Kernell,28.66,1.0
+South,Kentucky,Pepillo Lindbergh,254.78,6.0
+South,Kentucky,Rik Pithcock,131.81,4.0
+South,Kentucky,Tessy Ducker,203.81,2.0
+South,Kentucky,Vanya Follin,364.89,6.0
+South,Louisiana,Barry Gyford,233.39,3.0
+South,Louisiana,Caleb Walder,264.08,4.0
+South,Louisiana,Curt Candish,75.26,1.0
+South,Louisiana,Emelina Landor,323.69,2.0
+South,Louisiana,Gusty Ragles,1813.99,4.0
+South,Louisiana,Henrietta Feltham,1021.53,9.0
+South,Louisiana,Jeniece Petrusch,17.89,1.0
+South,Louisiana,Johnette Prester,110.95,2.0
+South,Louisiana,Karlis Limrick,90.15,2.0
+South,Louisiana,Kurt Keeting,,1.0
+South,Louisiana,Kurtis Spikeings,370.81,4.0
+South,Louisiana,Mallissa Gerriets,83.16,2.0
+South,Louisiana,Myrilla Pau,977.1,4.0
+South,Louisiana,Ranee Likly,68.98,2.0
+South,Louisiana,Ruth Dullingham,404.07,5.0
+South,Louisiana,Tani Di Ruggiero,305.6,1.0
+South,Louisiana,Vina Rapaport,486.86,6.0
+South,Maryland,Carmel Treneman,131.03,1.0
+South,Maryland,Delly Iley,1138.88,6.0
+South,Maryland,Gian Menguy,1059.55,5.0
+South,Maryland,Hedda MacCrosson,304.14,5.0
+South,Maryland,Hillie Holttom,296.15,2.0
+South,Maryland,Jaime Oldford,1172.24,10.0
+South,Maryland,Kira Braunton,1212.87,9.0
+South,Maryland,Marjy Whight,402.63,6.0
+South,Maryland,Markos Saggs,5607.76,3.0
+South,Maryland,Selby Kestle,199.76,2.0
+South,Maryland,Suzi Muat,232.74,2.0
+South,Mississippi,Craggy Di Giacomettino,329.82,4.0
+South,Mississippi,Inesita O'Cassidy,1255.7,4.0
+South,North Carolina,Alanson D'Elia,70.69,1.0
+South,North Carolina,Archaimbaud Crebott,495.94,4.0
+South,North Carolina,Brand Clapham,607.27,7.0
+South,North Carolina,Chane Deary,253.28,1.0
+South,North Carolina,Delphine Corner,225.62,2.0
+South,North Carolina,Dominique Toffolini,186.22,1.0
+South,North Carolina,Gasparo Scotting,663.71,3.0
+South,North Carolina,Hadria Coulsen,56.52,2.0
+South,North Carolina,Karoly Bramham,1267.59,3.0
+South,North Carolina,Lulita Sprosson,35.93,1.0
+South,North Carolina,Mabelle Thurbon,293.02,3.0
+South,North Carolina,Mallorie Armitt,271.89,1.0
+South,North Carolina,Mei Kingzett,972.33,3.0
+South,North Carolina,Minni Mostyn,26.1,1.0
+South,North Carolina,Olia Burgwyn,1551.29,4.0
+South,North Carolina,Rollie Ifill,170.77,3.0
+South,North Carolina,Tallou Yantsev,419.85,2.0
+South,North Carolina,Vicky Tuminini,296.53,4.0
+South,North Carolina,Waldemar Orrock,440.55,2.0
+South,North Carolina,Wash Latore,1706.75,1.0
+South,Oklahoma,Brande Mowson,288.75,3.0
+South,Oklahoma,Cheri Abbotts,39.6,2.0
+South,Oklahoma,Doreen Bonicelli,759.01,2.0
+South,Oklahoma,Electra Dainton,212.54,3.0
+South,Oklahoma,Ira Kenningham,117.93,2.0
+South,Oklahoma,Kevan Clayton,540.08,5.0
+South,Oklahoma,Land Kadd,266.41,2.0
+South,Oklahoma,Maxi Cordeix,180.2,2.0
+South,Oklahoma,Mill Paddie,122.41,2.0
+South,Oklahoma,Orelle Bonson,241.47,3.0
+South,Oklahoma,Sam Liffey,3552.83,5.0
+South,Oklahoma,Tabb Prozescky,136.4,2.0
+South,Oklahoma,Tana Collister,1484.65,1.0
+South,Oklahoma,Westley Jollye,280.85,1.0
+South,South Carolina,Andra Lyosik,1151.27,7.0
+South,South Carolina,Cad Cartmael,359.31,7.0
+South,South Carolina,Corinna Slide,44.43,2.0
+South,South Carolina,Emelita Blackmoor,189.95,4.0
+South,South Carolina,Gerty McCourt,27.12,4.0
+South,South Carolina,Hailee Deighton,616.45,3.0
+South,South Carolina,Kahlil Shotbolt,42.54,1.0
+South,South Carolina,Matthieu Grindrod,46.19,2.0
+South,South Carolina,Maureen Glossup,207.3,2.0
+South,South Carolina,Melina Batchley,339.53,1.0
+South,South Carolina,Phylis MacMaykin,126.53,1.0
+South,South Carolina,Yurik Sydes,10.16,1.0
+South,Tennessee,Cacilia Fernandez,1271.5,8.0
+South,Tennessee,Esme Rogerot,530.37,3.0
+South,Tennessee,Frannie Gauvin,208.76,2.0
+South,Tennessee,Hope Dollin,265.21,2.0
+South,Tennessee,Isadore Lubbock,20.37,2.0
+South,Tennessee,Kane Gow,1000.62,4.0
+South,Tennessee,Nara Downage,37.73,1.0
+South,Tennessee,Peirce Lyes,92.45,1.0
+South,Tennessee,Rea Nassy,47.56,2.0
+South,Tennessee,Samaria Popplewell,783.14,5.0
+South,Tennessee,Selestina Wenban,333.44,3.0
+South,Tennessee,Sigrid McAless,464.97,2.0
+South,Tennessee,Spencer Sellor,97.56,2.0
+South,Tennessee,Sydney Huxtable,148.52,1.0
+South,Tennessee,Tomi Vicary,74.56,2.0
+South,Tennessee,Tomlin Bunny,85.7,2.0
+South,Tennessee,Travus McAsgill,201.45,2.0
+South,Texas,Alejandrina Corcut,228.09,3.0
+South,Texas,Alyson Leftly,1176.79,6.0
+South,Texas,Amelina Tasch,160.77,3.0
+South,Texas,Ariana Liles,145.96,3.0
+South,Texas,Arvy Sach,145.97,3.0
+South,Texas,Aurora Deport,140.62,1.0
+South,Texas,Austina Bagster,43.22,1.0
+South,Texas,Bail Lethem,1098.14,10.0
+South,Texas,Barton Foakes,19.93,1.0
+South,Texas,Bary Trunks,761.17,3.0
+South,Texas,Bernadina Hesser,173.48,5.0
+South,Texas,Bertie Bowne,110.77,1.0
+South,Texas,Bird Benner,1427.17,9.0
+South,Texas,Brucie Ickovits,1250.44,7.0
+South,Texas,Bruis Becarra,288.13,2.0
+South,Texas,Cece Davidai,157.14,3.0
+South,Texas,Cherianne Gorusso,499.11,3.0
+South,Texas,Claudia Steuhlmeyer,469.14,3.0
+South,Texas,Con Petschel,788.06,3.0
+South,Texas,Coraline Danilyak,370.44,3.0
+South,Texas,Dallas Paulmann,105.0,1.0
+South,Texas,Danyelle Sowley,343.82,2.0
+South,Texas,Donovan Vanes,725.65,8.0
+South,Texas,Drusi Giron,1077.59,2.0
+South,Texas,Eduardo Crinion,426.2,4.0
+South,Texas,Eleanore Panks,513.37,5.0
+South,Texas,Eugen Lembrick,928.04,3.0
+South,Texas,Eustace Scholling,109.77,2.0
+South,Texas,Eveline Keuntje,168.0,1.0
+South,Texas,Fedora Wyleman,394.34,5.0
+South,Texas,Ferguson Wynett,108.27,2.0
+South,Texas,Flint Duthie,422.4,4.0
+South,Texas,Fraser Stegel,361.69,4.0
+South,Texas,Gideon O' Kelleher,380.32,3.0
+South,Texas,Glynis Stanlock,15.86,1.0
+South,Texas,Grata Larciere,339.35,2.0
+South,Texas,Guillemette Challiner,193.4,3.0
+South,Texas,Haze Pyatt,87.56,1.0
+South,Texas,Hedwiga Stephens,906.68,3.0
+South,Texas,Herminia Preble,102.14,1.0
+South,Texas,Jedidiah McCracken,90.23,2.0
+South,Texas,Jeremie Onraet,566.87,2.0
+South,Texas,Joeann Tal,97.39,1.0
+South,Texas,Kailey Shackleton,115.75,1.0
+South,Texas,Kareem Jakubiak,118.14,2.0
+South,Texas,Karon Kett,291.82,3.0
+South,Texas,Kiley Panting,719.64,6.0
+South,Texas,Kippie Wholesworth,2058.38,5.0
+South,Texas,Kizzie Beeson,186.95,3.0
+South,Texas,Kordula Marchelli,196.24,3.0
+South,Texas,Lanae Anstice,49.88,1.0
+South,Texas,Lemuel Sambedge,1873.47,2.0
+South,Texas,Livvy Founds,6225.17,15.0
+South,Texas,Lotti Herion,449.59,8.0
+South,Texas,Mac Temblett,58.83,1.0
+South,Texas,Maddy Mapp,217.18,2.0
+South,Texas,Marcelline Lathee,664.57,6.0
+South,Texas,Martica Webber,175.63,4.0
+South,Texas,Mathias Fautly,334.79,4.0
+South,Texas,Melessa Preddy,258.75,2.0
+South,Texas,Melinde Sancho,1762.72,2.0
+South,Texas,Melly Hartgill,87.96,3.0
+South,Texas,Melosa Oxlade,695.3,5.0
+South,Texas,Michaelina O'Cannon,90.92,2.0
+South,Texas,Minor Kellen,36.51,1.0
+South,Texas,My Grimm,545.51,2.0
+South,Texas,Myrle Ramsdell,126.24,2.0
+South,Texas,Natale Thurner,187.69,3.0
+South,Texas,Neron Cowling,227.94,2.0
+South,Texas,Nigel Stanistrete,151.76,2.0
+South,Texas,Oran Retallick,1157.65,9.0
+South,Texas,Othilie Tieman,988.77,4.0
+South,Texas,Page MacSkeaghan,375.79,4.0
+South,Texas,Pamella Brugman,1657.67,7.0
+South,Texas,Patton Ducroe,647.35,6.0
+South,Texas,Phebe Beceril,55.3,1.0
+South,Texas,Raffaello Figg,243.76,4.0
+South,Texas,Raffaello Higgan,196.04,3.0
+South,Texas,Reena Mackro,735.44,8.0
+South,Texas,Ricky Normavill,862.84,14.0
+South,Texas,Royce Coad,323.57,5.0
+South,Texas,Ruperto Donnachie,81.27,1.0
+South,Texas,Shay Jarvie,34.61,1.0
+South,Texas,Sinclair Lacase,350.13,1.0
+South,Texas,Sophey Riccelli,26.63,2.0
+South,Texas,Stella Bisco,92.32,1.0
+South,Texas,Susi Gabits,357.36,6.0
+South,Texas,Sutton Leisman,466.09,5.0
+South,Texas,Thomasina Beardshaw,149.21,3.0
+South,Texas,Thorstein Chantree,1112.09,9.0
+South,Texas,Turner Simoneschi,677.58,7.0
+South,Texas,Valdemar Peggrem,28.94,1.0
+South,Texas,Vale Essex,75.64,1.0
+South,Texas,Victoria Frazer,37.09,1.0
+South,Texas,Vincent Capron,16.3,3.0
+South,Texas,Willey Potkins,161.35,3.0
+South,Virginia,Alecia Conville,349.64,4.0
+South,Virginia,Aliza Cowell,,1.0
+South,Virginia,Aloysius Hague,210.41,2.0
+South,Virginia,Binni Grewe,787.89,3.0
+South,Virginia,Brent Flisher,63.89,2.0
+South,Virginia,Chiquita Nellis,408.47,5.0
+South,Virginia,Colas Danjoie,232.76,2.0
+South,Virginia,Dall Bonney,1737.52,5.0
+South,Virginia,Domenic Atwool,1479.91,9.0
+South,Virginia,Elvina Garroway,1321.12,3.0
+South,Virginia,Ezra Shirer,210.85,2.0
+South,Virginia,Godfry Makinson,220.96,7.0
+South,Virginia,Hakim Nelhams,360.87,2.0
+South,Virginia,Joleen Vaulkhard,295.0,3.0
+South,Virginia,Lurette Janoschek,894.32,9.0
+South,Virginia,Marian Wibrew,1081.39,8.0
+South,Virginia,Maude Denzilow,,1.0
+South,Virginia,Mellisa Willeson,,1.0
+South,Virginia,Micheil De Clairmont,90.67,1.0
+South,Virginia,Nani Blinckhorne,850.02,11.0
+South,Virginia,Normand Van der Kruijs,54.7,1.0
+South,Virginia,Patricia Hockell,628.38,2.0
+South,Virginia,Reggis MacGlory,661.83,10.0
+South,Virginia,Rube Stranieri,1161.35,2.0
+South,Virginia,Shirl Lambol,240.32,4.0
+South,Virginia,Suzy Zolini,220.22,1.0
+South,Virginia,Talbot Hallede,80.39,1.0
+South,Virginia,Terri Herety,154.04,4.0
+South,Virginia,Thurstan Dumini,178.29,4.0
+South,Virginia,Toddie Itzakson,22.37,1.0
+South,Virginia,Vernor McGillecole,484.54,2.0
+South,Virginia,Worden Gethouse,11.88,1.0
+South,West Virginia,Beverie Reeds,593.27,3.0
+South,West Virginia,Briny Maplestone,286.33,5.0
+South,West Virginia,Dannie Fluck,981.58,6.0
+South,West Virginia,Gav Blamires,364.53,7.0
+South,West Virginia,Maurita Rablin,255.64,2.0
+South,West Virginia,Opaline Eefting,351.82,2.0
+South,West Virginia,Tybalt Draper,298.19,1.0
+Unknown,Rhode Island,Harrie Gemmill,18.7,1.0
+West,AK,Andromache Roobottom,329.47,4.0
+West,AK,Dorice De Biasi,91.41,1.0
+West,AK,Drugi Edginton,373.39,6.0
+West,AK,Gan Fulun,459.76,3.0
+West,AK,Jason Murford,195.19,2.0
+West,AK,Korie Barker,2064.4,6.0
+West,AK,Marc Scawn,1357.75,4.0
+West,AK,Ted Grogan,173.37,1.0
+West,Arizona,Alvy Bohea,222.36,4.0
+West,Arizona,Aurelia Philps,816.48,1.0
+West,Arizona,Carlin McRae,1075.3,7.0
+West,Arizona,Cherish Shenton,96.63,1.0
+West,Arizona,Clarette Pithcock,67.06,2.0
+West,Arizona,Dru Fintoph,1838.29,5.0
+West,Arizona,Farris De Hooge,125.15,1.0
+West,Arizona,Fran Cotton,238.53,2.0
+West,Arizona,Francesca Duckitt,225.49,5.0
+West,Arizona,Josias Teideman,568.45,2.0
+West,Arizona,Kaitlynn Tocque,25.35,1.0
+West,Arizona,Karyn Greggor,211.52,3.0
+West,Arizona,Kriste Joney,248.58,2.0
+West,Arizona,Kyla Keysel,977.44,12.0
+West,Arizona,Leonerd Hubach,184.49,4.0
+West,Arizona,Lexis Wakeford,72.14,1.0
+West,Arizona,Lilah Cuel,145.74,3.0
+West,Arizona,Matthiew Dorricott,396.52,4.0
+West,Arizona,Rey Tilney,464.67,2.0
+West,Arizona,Rosalynd Corneljes,167.28,2.0
+West,Arizona,Sephira Mews,239.19,5.0
+West,Arizona,Simona Kingerby,68.97,2.0
+West,Arizona,Susanne Mattheissen,516.93,6.0
+West,Arizona,Sutherlan Arnaldo,381.13,5.0
+West,Arizona,Tabina Reston,281.74,5.0
+West,Arizona,Teodora Hadaway,253.56,2.0
+West,California,Aili Simla,400.38,3.0
+West,California,Aleksandr Menezes,755.31,8.0
+West,California,Alika Duligall,198.33,4.0
+West,California,Amber Bradmore,100.24,2.0
+West,California,Aundrea Moodie,545.06,3.0
+West,California,Bald Livock,2136.86,10.0
+West,California,Baron Roblou,135.78,6.0
+West,California,Bathsheba Willimott,278.27,3.0
+West,California,Belle Scheffler,873.52,7.0
+West,California,Blinnie Spurier,852.19,12.0
+West,California,Brant Chaves,1546.66,4.0
+West,California,Bronny Maryman,468.67,4.0
+West,California,Bryce Bevens,,1.0
+West,California,Camala Loan,1258.11,11.0
+West,California,Carilyn Korneichik,302.02,3.0
+West,California,Caryl Ivanchin,901.95,4.0
+West,California,Cirilo Coole,14.78,1.0
+West,California,Con Feare,141.33,1.0
+West,California,Concordia Shird,150.26,1.0
+West,California,Constantina Hubber,98.53,4.0
+West,California,Court Christie,1226.33,6.0
+West,California,Crawford Destouche,3170.58,14.0
+West,California,Daphna Franses,307.15,4.0
+West,California,Darnall Simion,181.74,1.0
+West,California,Dell Lawn,177.94,2.0
+West,California,Dorris Etienne,1872.04,5.0
+West,California,Eddy Amott,642.7,3.0
+West,California,Elston Nore,,1.0
+West,California,Emily Fantini,212.19,4.0
+West,California,Evelyn Turbefield,187.77,3.0
+West,California,Fancy Beard,123.15,2.0
+West,California,Farr Castro,191.36,2.0
+West,California,Ferdy Orhtmann,531.62,2.0
+West,California,Frannie Braksper,387.27,5.0
+West,California,Gerardo Mattimoe,146.19,3.0
+West,California,Gerhardine Salman,231.55,2.0
+West,California,Gerri Banfield,625.07,7.0
+West,California,Gibby Orviss,91.04,1.0
+West,California,Ginelle Sutterfield,138.13,2.0
+West,California,Granger Alu,1136.19,5.0
+West,California,Hallie Orrocks,,1.0
+West,California,Harlan O'Lehane,512.11,1.0
+West,California,Hermon Bakster,299.34,5.0
+West,California,Howey Rarity,139.34,1.0
+West,California,Hube Dany,954.48,6.0
+West,California,Hyacintha Cessford,103.39,2.0
+West,California,Ilse Cawcutt,172.82,2.0
+West,California,Ingelbert Villa,239.56,3.0
+West,California,Itch O'Shevlan,22.28,1.0
+West,California,Ives Crowcroft,951.33,2.0
+West,California,Janaya Axtens,1392.8,5.0
+West,California,Janie Leet,43.87,1.0
+West,California,Johnathan Barribal,161.78,1.0
+West,California,Joyous Heathorn,111.17,1.0
+West,California,Juliet Gault,223.95,2.0
+West,California,Karee Wilman,22.87,1.0
+West,California,Kristoforo Rainville,423.45,4.0
+West,California,Lani Jefford,327.66,2.0
+West,California,Lauraine Sanpher,1581.4,3.0
+West,California,Laurella Weeden,47.96,1.0
+West,California,Laverne Eborn,181.15,4.0
+West,California,Lucille Payn,636.31,2.0
+West,California,Lucky Kinsett,2084.39,3.0
+West,California,Maje Vasilmanov,473.14,5.0
+West,California,Marleah Overton,1965.23,5.0
+West,California,Melonie Hadfield,1724.97,6.0
+West,California,Merola Drynan,290.0,3.0
+West,California,Milt Ball,543.86,2.0
+West,California,Mordecai Crumb,152.25,2.0
+West,California,Morgan Whapples,1716.91,8.0
+West,California,Nanni Rodger,826.26,8.0
+West,California,Naomi Tapper,197.98,3.0
+West,California,Ned Moulder,377.32,2.0
+West,California,Nels Swetenham,1263.58,11.0
+West,California,Olivette Stonier,12.25,1.0
+West,California,Pat Yarr,3160.54,11.0
+West,California,Patience Iannello,175.55,2.0
+West,California,Puff Atte-Stone,1139.31,2.0
+West,California,Quincy Bausor,156.15,5.0
+West,California,Quinta Bastide,783.25,3.0
+West,California,Raddy Cray,260.31,3.0
+West,California,Raynard Kalvin,787.16,9.0
+West,California,Reinwald Straughan,707.08,10.0
+West,California,Rich MacCaughey,1124.96,6.0
+West,California,Rickert Jahncke,405.25,4.0
+West,California,Robb Lightman,151.11,3.0
+West,California,Robert Patel,21.16,1.0
+West,California,Ruthann Arkin,585.73,6.0
+West,California,Sal Jahns,67.81,2.0
+West,California,Sally Clymer,220.55,2.0
+West,California,Scotty O'Hannen,410.96,6.0
+West,California,Sigismundo Hedge,55.93,3.0
+West,California,Talyah Ladson,165.8,2.0
+West,California,Teodora MacSharry,116.79,1.0
+West,California,Terencio Mohammed,72.2,1.0
+West,California,Thalia McNaught,562.11,5.0
+West,California,Thayne Quarrington,496.9,5.0
+West,California,Theodor Nottingam,485.82,3.0
+West,California,Tisha McKinstry,1705.65,6.0
+West,California,Valencia Sawyer,77.28,1.0
+West,California,Vera Andric,543.9,5.0
+West,California,Vivian Collomosse,168.71,2.0
+West,California,Xenia Hagergham,394.27,5.0
+West,California,Zacherie Battie,81.14,1.0
+West,Colorado,Alessandro Fullerlove,171.18,2.0
+West,Colorado,Candice Bumpus,154.43,1.0
+West,Colorado,Chen Bensusan,20.68,1.0
+West,Colorado,Debby Linfield,,1.0
+West,Colorado,Dulsea Godden,491.75,5.0
+West,Colorado,Fergus Hauxby,1087.36,2.0
+West,Colorado,Gnni Tonkin,771.94,5.0
+West,Colorado,Helen-elizabeth Starbeck,542.6,1.0
+West,Colorado,Ikey Abbati,58.92,1.0
+West,Colorado,Inesita Baily,1328.55,5.0
+West,Colorado,Kenn Davidovic,84.09,1.0
+West,Colorado,Kimble Derr,2387.26,4.0
+West,Colorado,Millisent McIllroy,1223.14,3.0
+West,Colorado,Mortimer Boxhall,269.09,6.0
+West,Colorado,Nicolea Rohlf,22.37,1.0
+West,Colorado,Ronna Stanmore,610.34,7.0
+West,Colorado,Smitty Hawkswell,117.03,2.0
+West,Colorado,Towney Muckle,110.01,1.0
+West,Colorado,Wallache Keenor,169.78,5.0
+West,Colorado,Whitney Pykerman,766.81,1.0
+West,Hawaii,Andra Verrill,175.63,3.0
+West,Hawaii,Fidelia Ivy,1841.9,8.0
+West,Hawaii,Larisa Wasselin,121.96,2.0
+West,Hawaii,Maggee Bendin,2389.54,4.0
+West,Hawaii,Mead Rodolf,411.79,3.0
+West,Hawaii,Neale Tommasi,188.8,4.0
+West,Hawaii,Yolanda Kahler,62.34,3.0
+West,Idaho,Byron Dibson,1243.03,4.0
+West,Idaho,Dana Batt,3003.93,3.0
+West,Idaho,Maynord Cloughton,153.56,1.0
+West,Montana,Clementina Pennrington,625.47,10.0
+West,Montana,Estrella Wildblood,357.13,3.0
+West,Montana,Lorinda Janusz,186.1,5.0
+West,Montana,Sonia Quadling,69.33,1.0
+West,Nevada,Calv Oliver-Paull,,1.0
+West,Nevada,Dave Gebbie,38.31,1.0
+West,Nevada,Janaya Durant,24.85,1.0
+West,Nevada,Maurise Sconce,688.68,5.0
+West,Nevada,Micky Clayden,177.74,3.0
+West,Nevada,Mignonne De la Eglise,49.74,2.0
+West,Nevada,Nessie Suff,106.25,1.0
+West,Nevada,Ollie Sayse,325.72,4.0
+West,Nevada,Tisha Maggi,158.49,1.0
+West,Nevada,Web Kondrachenko,427.36,1.0
+West,New Mexico,Braden Hawley,493.51,2.0
+West,New Mexico,Freddy Errichiello,97.95,2.0
+West,New Mexico,Garner Wordsworth,,1.0
+West,New Mexico,Gussi Rowth,77.49,1.0
+West,New Mexico,L;urette Barnhart,100.18,1.0
+West,New Mexico,Lemar Somerville,368.68,5.0
+West,New Mexico,Tanney Scutchin,301.36,8.0
+West,Oregon,Abbie Dishmon,258.9,4.0
+West,Oregon,Halie Le Houx,14.31,1.0
+West,Oregon,Jesse Briddle,517.32,5.0
+West,Oregon,Marti Crosscombe,3698.15,15.0
+West,Oregon,Roxi Tebbut,359.28,3.0
+West,Oregon,Trixy Donnett,477.97,4.0
+West,Utah,Averell Thacker,24.85,1.0
+West,Utah,Cece Crosson,2750.52,13.0
+West,Utah,Giselbert Rupke,2219.07,6.0
+West,Utah,Griff Gristock,129.48,2.0
+West,Utah,Kathye Halle,2294.48,8.0
+West,Utah,Oralee Logsdail,259.88,2.0
+West,Utah,Ted Legier,1729.34,4.0
+West,Washington,Aubrey Surplice,1000.91,5.0
+West,Washington,Berkeley Brendish,20.9,1.0
+West,Washington,Denys Dykas,1720.19,9.0
+West,Washington,Dulciana Egell,18.28,1.0
+West,Washington,Isidor Grestye,354.22,3.0
+West,Washington,Jamil Ledger,389.43,2.0
+West,Washington,Juliane McGinly,104.83,4.0
+West,Washington,Marcella Di Matteo,630.01,10.0
+West,Washington,Reinwald Kime,114.48,2.0
+West,Washington,Travus Rudgerd,2703.8,7.0
