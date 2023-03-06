@@ -35,7 +35,6 @@ request_visual = requests.get(
 status = True
 
 while status:
-    print(request_visual.status_code)
     if (request_visual.status_code != 200):
         request_visual = requests.get(
             f"{host}/api/v1/actions/workspaces/{workspace_id}/export/visual/{export_id}",
